@@ -196,7 +196,7 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+<div align="left" style="display: flex; justify-content: space-between; margin-top: 20px;">
 <div style="width: 32%; height: 200px; display: flex; align-items: center; justify-content: center;">
 <img style="width: 100%; height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekak411&show_icons=true&locale=en&layout=compact" alt="abhishekak411" />
 </div>
