@@ -9,7 +9,7 @@
 
 * 🔭 I’m currently working on **Angular and Flutter projects** 
 
-* 🌱 I’m currently learning **Angular, Flutter and Dart** 
+* 🌱 I’m currently working on **Angular, Flutter and Dart** 
 
 * 💬 Ask me about **MERN, Typescript, Angular, NestJS** 
 
